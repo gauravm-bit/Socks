@@ -27,8 +27,8 @@ for (i = 0; i < number; i++) {
     }
     i += 1;
 }
-//finding out the pairs
+// finding pairs by comparing the elements
+
 
 console.log("the pairs of socks which can be sold are "+pairs);
-// finding pairs by comparing the elements
 
